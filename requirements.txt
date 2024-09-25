@@ -15,3 +15,5 @@ openai
 tiktoken
 jieba
 nltk
+sentencepiece
+protobuf
