@@ -1,0 +1,17 @@
+datasets
+huggingface-hub
+Jinja2
+numpy
+pandas
+pydantic
+pytrec_eval
+rich
+scikit-learn
+sentence-transformers
+tokenizers
+tqdm
+transformers
+openai
+tiktoken
+jieba
+nltk
