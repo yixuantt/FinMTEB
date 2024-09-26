@@ -6,7 +6,7 @@
 Finance Massive Text Embedding Benchmark (FinMTEB), a counterpart to MTEB that consists of financial domain-specific text datasets. In summary, FinMTEB consists of a total of 64 datasets, spanning seven different tasks. The key difference between MTEB and FinMTEB is that all datasets in FinMTEB are finance-domain specific, either previously used in financial NLP research or newly developed by the authors.  
 
 ## Usage 
-* The basic pipeline is the same with [MTEB](https://github.com/embeddings-benchmark/mteb). 
+* The basic pipeline is built upon [MTEB](https://github.com/embeddings-benchmark/mteb). 
   
 ### Install
 
