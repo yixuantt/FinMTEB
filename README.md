@@ -43,6 +43,5 @@ python eval_FinanceMTEB.py --model_name_or_path BAAI/bge-en-icl --pooling_method
 
 ## Citation
 
-## Bug Report
 --------
 Thanks to the [MTEB](https://github.com/embeddings-benchmark/mteb) Benchmark.
