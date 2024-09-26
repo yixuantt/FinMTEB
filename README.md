@@ -8,7 +8,7 @@ Finance Massive Text Embedding Benchmark (FinMTEB), a counterpart to MTEB that c
 ## Usage 
 * The basic pipeline is the same with [MTEB](https://github.com/embeddings-benchmark/mteb). 
   
-### install
+### Install
 
 ```
 conda create -n finmteb python=3.10
