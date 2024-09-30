@@ -43,6 +43,16 @@ python eval_FinanceMTEB.py --model_name_or_path BAAI/bge-en-icl --pooling_method
 ```
 
 ## Citation
-Coming Soon.
+```
+@misc{tang2024needdomainspecificembeddingmodels,
+      title={Do We Need Domain-Specific Embedding Models? An Empirical Investigation}, 
+      author={Yixuan Tang and Yi Yang},
+      year={2024},
+      eprint={2409.18511},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2409.18511}, 
+}
+```
 --------
 Thanks to the [MTEB](https://github.com/embeddings-benchmark/mteb) Benchmark.
