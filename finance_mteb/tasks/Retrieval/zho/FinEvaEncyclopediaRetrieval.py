@@ -11,7 +11,7 @@ class FinEvaEncyclopediaRetrieval(AbsTaskRetrieval):
         reference="https://github.com/alipay/financial_evaluation_dataset",
         dataset={
             "path": "FinanceMTEB/FinEvaEncyclopedia",
-            "revision": "319cfecef08894ba607881ae08b0b2b15badf3c7",
+            "revision": "3f4e6b66d58ba1514718e3823f0cb818609dce25",
         },
         type="Retrieval",
         category="s2p",
