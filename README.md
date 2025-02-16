@@ -6,7 +6,7 @@
 Finance Massive Text Embedding Benchmark (FinMTEB), an embedding benchmark consists of **64 financial domain-specific text datasets**, across **English and Chinese**, spanning **seven different tasks**. All datasets in FinMTEB are finance-domain specific, either previously used in financial NLP research or newly developed by the authors.
 
 * Paper Link: [Do We Need Domain-Specific Embedding Models? An Empirical Investigation](https://arxiv.org/pdf/2409.18511v1)
-* [Leaderboard](https://huggingface.co/spaces/FinanceMTEB/FinanceMTEB_Leaderboard)
+* 🤗 [Leaderboard](https://huggingface.co/spaces/FinanceMTEB/FinanceMTEB_Leaderboard)
 ## Usage 
 * The basic pipeline is built upon [MTEB](https://github.com/embeddings-benchmark/mteb). 
   
