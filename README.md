@@ -9,7 +9,10 @@ Finance Massive Text Embedding Benchmark (FinMTEB), an embedding benchmark consi
 * 🤗 [Leaderboard](https://huggingface.co/spaces/FinanceMTEB/FinanceMTEB_Leaderboard)
 ## Usage 
 * The basic pipeline is built upon [MTEB](https://github.com/embeddings-benchmark/mteb). 
-  
+
+---
+### News
+* 🎆 We open source a new **finance-adapted** LLM-based embedding model [FinE5]([https://github.com/embeddings-benchmark/mteb](https://huggingface.co/yixuantt/Fin-e5)). 
 ### Install
 
 ```
