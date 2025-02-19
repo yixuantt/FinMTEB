@@ -52,6 +52,16 @@ python eval_FinanceMTEB.py --model_name_or_path BAAI/bge-en-icl --pooling_method
 
 ## Citation
 ```
+@misc{tang2025finmtebfinancemassivetext,
+      title={FinMTEB: Finance Massive Text Embedding Benchmark}, 
+      author={Yixuan Tang and Yi Yang},
+      year={2025},
+      eprint={2502.10990},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2502.10990}, 
+}
+
 @misc{tang2024needdomainspecificembeddingmodels,
       title={Do We Need Domain-Specific Embedding Models? An Empirical Investigation}, 
       author={Yixuan Tang and Yi Yang},
