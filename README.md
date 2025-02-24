@@ -11,12 +11,11 @@ Finance Massive Text Embedding Benchmark (FinMTEB), an embedding benchmark consi
   
   📚 [Do We Need Domain-Specific Embedding Models? An Empirical Investigation](https://arxiv.org/pdf/2409.18511v1)
 * 🤗 [Leaderboard](https://huggingface.co/spaces/FinanceMTEB/FinanceMTEB_Leaderboard)
+
+---
 ## Usage 
 * The basic pipeline is built upon [MTEB](https://github.com/embeddings-benchmark/mteb). 
 
----
-### News
-* 🎆 We open source a new **finance-adapted** LLM-based embedding model [FinE5]([https://github.com/embeddings-benchmark/mteb](https://huggingface.co/yixuantt/Fin-e5)). 
 ### Install
 
 ```
