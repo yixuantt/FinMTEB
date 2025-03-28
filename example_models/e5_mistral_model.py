@@ -38,13 +38,16 @@ class E5DRESModel:
             self.batch_size = self.batch_size * num_gpus
 
 
+    def get_detailed_instruct(self, task_description: str, query: str) -> str:
+        return f'Instruct: {task_description}\nQuery: {query}'
+
     def encode_queries(self, queries: List[str], **kwargs) -> np.ndarray:
         '''
         This function will be used for retrieval task
         if there is a instruction for queries, we will add it to the query text
         '''
         if self.query_instruction_for_retrieval is not None:
-            input_texts = ['{}{}'.format(self.query_instruction_for_retrieval, q) for q in queries]
+            input_texts = [self.get_detailed_instruct(self.query_instruction_for_retrieval,q) for q in queries]
         else:
             input_texts = queries
         return self.encode(input_texts)
