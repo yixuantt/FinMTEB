@@ -7,7 +7,7 @@ Finance Massive Text Embedding Benchmark (FinMTEB), an embedding benchmark consi
 
 * Paper Link:
   
-  📚 [FinMTEB: Finance Massive Text Embedding Benchmark](https://arxiv.org/abs/2502.10990)
+  📚 [FinMTEB: Finance Massive Text Embedding Benchmark](https://arxiv.org/abs/2502.10990) 🎉 accepted by EMNLP 2025. 
   
   📚 [Do We Need Domain-Specific Embedding Models? An Empirical Investigation](https://arxiv.org/pdf/2409.18511v1)
 * 🤗 [Leaderboard](https://huggingface.co/spaces/FinanceMTEB/FinanceMTEB_Leaderboard)
