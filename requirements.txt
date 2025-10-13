@@ -5,7 +5,7 @@ Jinja2
 numpy
 pandas
 pydantic==2.9.2
-pytrec_eval==0.5
+pytrec-eval-terrier==0.5.9
 rich
 scikit-learn
 sentence-transformers
