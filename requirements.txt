@@ -1,4 +1,5 @@
 datasets==2.20.0
+mteb==1.36.33
 transformers
 huggingface-hub
 Jinja2
