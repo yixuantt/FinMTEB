@@ -160,6 +160,7 @@ class AbsTaskClassification(AbsTask):
         np.random.shuffle(idxs)
         label_counter = defaultdict(int)
         for i in idxs:
+            idx = int(i)
             if label_counter[y[i]] < samples_per_label:
                 X_sampled.append(X[i])
                 y_sampled.append(y[i])
